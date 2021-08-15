@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../data scraping"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
